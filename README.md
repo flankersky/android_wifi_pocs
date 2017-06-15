@@ -1,2 +1,12 @@
 # android_wifi_pocs
 some pocs for android wifi driver
+CVE-2016-8419,
+CVE-2016-8420,
+CVE-2016-8421,
+CVE-2016-8476,
+CVE-2017-0437,
+CVE-2017-0438,
+CVE-2017-0439,
+CVE-2017-0441,
+CVE-2017-0442,
+CVE-2017-0443
